@@ -1,0 +1,3 @@
+Difference between RDBMS (SQL) and OODBMS (MongoDB)
+Data is stored in relations while data is stored as documents (the latter might be better for multi value attributes).
+
